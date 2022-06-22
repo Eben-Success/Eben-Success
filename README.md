@@ -3,10 +3,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Product+Manager!" /></a>
 </p>
 
-![](https://github.com/Eben-Suucess/Eben-Success/blob/main/eben.jpg)
+![](https://github.com/Eben-Success/Eben-Success/blob/main/eben.jpg)
 
 
-* 🌍  I'm based in Lagos, Nigeria
+* 🌍  I'm based in Accra, Ghana
 * ✉️  You can contact me at [ebenezeracquah237@gmail.com](mailto:ebenezeracquah237@gmail.com)
 * 🚀  I'm currently working as a [Junior Data Scientist](http://www.zummitafrica.com)
 * 🧠  I'm currently studying machine learning and how to deploy them for commercial use.
