@@ -198,7 +198,7 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
     <a href="https://github.com/Venedah/github-readme-stats"><img alt="Venedah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Venedah&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Venedah&show_icons=true&locale=en&layout=compact&theme=dark" alt="Venedah" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eben-Success&show_icons=true&locale=en&layout=compact&theme=dark" alt="Venedah" height="192px"/>
   <br/>
   </p>
 </details>
@@ -207,7 +207,7 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Venedah"><img alt="Venedah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Venedah&custom_title=Venedah's%20Contribution%20Graph&theme=dark" /></a>
+   <a href="https://github.com/Eben-Success"><img alt="Eben's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Eben-Success&custom_title=Eben's%20Contribution%20Graph&theme=dark" /></a>
   <br/>
 
 </details>
@@ -215,7 +215,7 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 <details>
   <summary><b>⚡ GitHub Contribution Streak</b></summary>
   <br/>
-   <a href="https://github.com/Venedah"><img alt="Venedah's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Venedah&theme=dark" /></a>
+   <a href="https://github.com/Eben-Success"><img alt="Eben's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Eben-Success&theme=dark" /></a>
   <br/>
 
 </details>
@@ -224,7 +224,7 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 <br/>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Venedah&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Eben-Success&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 
 
