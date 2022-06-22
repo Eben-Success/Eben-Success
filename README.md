@@ -228,13 +228,13 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 
 
 
-### What I'm Currently Listening To
+<!-- ### What I'm Currently Listening To
 
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=thiei724elvwcervp1qpymi9m&cover_image=true&theme=default&bar_color=18cd1b&bar_color_cover=false" 
       alt="example"> 
-</p>
+</p> -->
    
 
 ----
