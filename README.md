@@ -3,15 +3,23 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Junior+Data+Scientist!" /></a>
 </p>
 
-![](https://github.com/Eben-Success/Eben-Success/blob/main/profile1.jpg)
 
 
 * 🌍  I'm based in Accra, Ghana
+
+* 🚀  I'm an intern as a [Junior Data Scientist](http://www.zummitafrica.com)
+
+* 🤝  I'm open to collaborating on Machine Learning or Deep Learning Projects and working on how data-driven insights play a central role in all decisions and efforts in building a new product or feature.
+
+* 💬 Ask me about **Any Machine learnng or Deep Learning Technology**
+
 * ✉️  You can contact me at [ebenezeracquah237@gmail.com](mailto:ebenezeracquah237@gmail.com)
-* 🚀  I'm currently working as a [Junior Data Scientist](http://www.zummitafrica.com)
-* 🧠  I'm currently studying machine learning and how to deploy them for commercial use.
-* 🤝  I'm open to collaborating on ML/DL Projects and working on how data-driven insights play a central role in all decisions and efforts in building a new product or feature.
-* ⚡  I'm a Manchester United fan, Melophile and a gym rat.
+
+### Socials
+
+<p align="left"> <a href="https://www.facebook.com/ebenezer.acquah.733" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Eben-Success" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ebenezer-acquah-74074b210/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://https://medium.com/@ebenezeracquah237" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/15748675/eben-success" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://twitter.com/EbenSuccess3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
 
 <!-- <a href="https://twitter.com/EBENEZE15847727" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/valentineenedah?logo=twitter&style=for-the-badge&color=000000&labelColor=1e3a8a"
@@ -127,10 +135,6 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
   <a href="https://opencv.org/" target="_blank">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
   </a>
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/ebenezer.acquah.733" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Eben-Success" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://Venedah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/valentineenedah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ebenezer-acquah-74074b210/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/valentineenedah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17915390/valentine-enedah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/valentineenedah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 ## Projects
