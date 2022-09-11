@@ -7,7 +7,7 @@
 
 * 🌍  I'm based in Accra, Ghana
 
-* 🚀  I'm an intern as a [Junior Data Scientist](http://www.zummitafrica.com)
+* 🚀  I'm a [a Data Science Intern](http://www.zummitafrica.com)
 
 * 🤝  I'm open to collaborating on Machine Learning or Deep Learning Projects and working on how data-driven insights play a central role in all decisions and efforts in building a new product or feature.
 
