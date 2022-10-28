@@ -7,11 +7,9 @@
 
 * 🌍  I'm based in Accra, Ghana
 
-* 🚀  I'm a Data Science Intern at  [Zummit Africa](http://www.zummitafrica.com).
-
 * 🤝  I'm open to collaborating on Machine Learning or Deep Learning Projects and working on how data-driven insights play a central role in all decisions and efforts in building a new product or feature.
 
-* 💬 Ask me about **Any Machine learnng or Deep Learning Technology**
+* 💬 Ask me about **Software Engineering & Machine learnng**
 
 * ✉️  You can contact me at [ebenezeracquah237@gmail.com](mailto:ebenezeracquah237@gmail.com)
 
