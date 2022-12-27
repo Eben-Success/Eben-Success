@@ -7,7 +7,7 @@
 
 * 🌍  I'm based in Accra, Ghana
 
-* 🤝  I'm open to collaborating on Machine Learning or software engineering Projects.
+* 🤝  I'm open to collaborating on Software Engineering or Machine Learning Projects.
 * 💬 Ask me about **Software Engineering & Machine learnng**
 
 * ✉️  You can contact me at [ebenezeracquah237@gmail.com](mailto:ebenezeracquah237@gmail.com)
