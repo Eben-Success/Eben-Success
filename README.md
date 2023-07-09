@@ -1,4 +1,4 @@
-<div style="text-align: center;"> ![](https://komarev.com/ghpvc/?username=Eben-Success&color=blue) </div>
+![](https://komarev.com/ghpvc/?username=Eben-Success&color=blue)
 
 ## Hi, I’m Ebenezer Acquah.<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
 <p>
