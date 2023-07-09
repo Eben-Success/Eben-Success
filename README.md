@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=Eben-Success&color=blue)
+<center>![](https://komarev.com/ghpvc/?username=Eben-Success&color=blue)</center>
+
 
 ## Hi, I’m Ebenezer Acquah.<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
 <p>
