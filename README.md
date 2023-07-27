@@ -42,6 +42,9 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
   </a>
 </p>
 
+## Leetcode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ebenezeracquah237?ext=heatmap&animation=true)](https://leetcode.com/ebenezeracquah237/)
+
 ### Frameworks
 <p align="left">
   <a href="#" >
