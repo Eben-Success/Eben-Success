@@ -43,7 +43,7 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 </p>
 
 ## Leetcode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ebenezeracquah237?ext=heatmap&animation=true)](https://leetcode.com/ebenezeracquah237/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Eben-Success?ext=heatmap&animation=true)](https://leetcode.com/ebenezeracquah237/)
 
 ### Frameworks
 <p align="left">
