@@ -46,9 +46,6 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 
 ### Frameworks
 <p align="left">
-  <a href="#" >
-    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </a>
 	
   <a href="#">
     <img alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
@@ -57,9 +54,6 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
  
   <a href="#">
     <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-  </a>
- <a href="#">
-	<img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </a>
 </p>
 
