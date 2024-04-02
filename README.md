@@ -50,11 +50,6 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
   <a href="#">
     <img alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   </a>
-
- 
-  <a href="#">
-    <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-  </a>
 </p>
 
 
